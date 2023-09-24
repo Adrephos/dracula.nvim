@@ -20,8 +20,8 @@ return {
    bright_white = "#FFFFFF",
    menu = "#21222C",
    visual = "#3E4452",
-   gutter_fg = "#4B5263",
-   nontext = "#70748c",
+   gutter_fg = "#70748c",
+   nontext = "#3B4048",
    white = "#ABB2BF",
    black = "#191A21",
 }
